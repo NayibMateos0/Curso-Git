@@ -6,5 +6,7 @@ print('hola soy nayib')
 x = 5
 y = 2
 
-suma = x + y
-print(suma)
+if(x > y):
+    print("el mayor es ",x)
+else:
+    print("el mayo es ",y)
