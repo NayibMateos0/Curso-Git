@@ -10,3 +10,5 @@ if(x > y):
     print("el mayor es ",x)
 else:
     print("el mayo es ",y)
+
+print('hola soy de github')
